@@ -20,14 +20,12 @@ Copiar código
 git clone https://github.com/CarrascoOlmedoDevs/AI-Football-Simulator.git
 Navigate to the project directory:
 
-bash
-Copiar código
+
 cd AI-Football-Simulator
 Usage
 To start the simulation, run:
 
-bash
-Copiar código
+
 python futbolsimulacion.py
 Customizable Parameters
 Field dimensions
