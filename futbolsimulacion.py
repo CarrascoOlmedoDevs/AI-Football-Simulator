@@ -8,6 +8,7 @@ import torch.optim as optim
 import numpy as np
 import os
 from collections import deque
+from enum import Enum
 
 # Inicializar Pygame
 pygame.init()
@@ -72,14 +73,7 @@ class DQN(nn.Module):
         return self.fc3(x)
 
 
-import pygame
-import random
-import torch
-import torch.nn as nn
-import torch.optim as optim
-import os
-import math
-from enum import Enum
+
 
 class EstadoJugador(Enum):
     INACTIVO = 1
