@@ -54,3 +54,13 @@ PyGame community for their excellent documentation and examples
 
 Contact
 For any queries or suggestions, please open an issue or contact the maintainer 
+
+
+Gracias a :
+Alba por aguantarme y inspirarme , eres y seras la mas linda musa , no lo olvides jamas ;) 
+Salva por retarme y aguantarme , luchar contra la vida codo a codo conmigo , sin ti no hubiera podido hacer esto
+Noa por hacerme padre , por ilusionarme y abrumarme , por darme amor puro y noble , por exigirme y obligarme a querer ser buen padre , te amare por siempre infinito
+Xavi por darme lo que siempre quise , la oportunidad de remendar mi nombre , por que el siguiente tenga las oportunidades y amor que yo nunca tuve
+Mama por ser noble y sabia y por ser obsecada y martir , la historia te recordara como una mujer buena , mi orgullo es por ti y por lo que somos 
+Padre por no darme la caña que me prometistes y dejarme solo en esta jungla , hoy , fui , soy y sere el que prevalece , gracias .
+Josep por creer en mi y ser el padre que me falto , nunca se pudo tener mejor suegro , a los pies de su señora .
